@@ -348,7 +348,6 @@ extra:
     accent:  'blue'
 theme:
   name: 'material'
-  custom_dir: 'custom_theme'
   logo: 'image/branding/invader.png'
   favicon: 'image/branding/invader.png'
 markdown_extensions:
