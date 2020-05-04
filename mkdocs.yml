@@ -1,5 +1,5 @@
 site_name: Libretro Docs Test
-site_url: 'https://fpscan.github.io/docstest/'
+site_url: 'https://docstest.retroarch.com'
 repo_name: 'fpscan/docs'
 repo_url: 'https://github.com/fpscan/docstest'
 edit_uri: 'edit/master/docs'
